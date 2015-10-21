@@ -10,5 +10,8 @@ package example;
  * @author Catarina
  */
 public class B {
+	public void b1(){
+		
+	}
 	
 }
