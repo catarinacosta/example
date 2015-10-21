@@ -23,11 +23,11 @@ public class B {
 	}
 	
 	public void b4(){
-		System.out.println("changing method b4");
+		System.out.println("changing method b4 twice");
 	}
 	
 	public void b5(){
-		
+		System.out.println("changing method b5");
 	}
 	
 	public void b6(){
