@@ -21,4 +21,8 @@ public class C {
 	public void c3(){
 		
 	}
+	
+	public void c4(){
+		
+	}
 }
