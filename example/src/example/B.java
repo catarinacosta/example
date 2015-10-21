@@ -11,7 +11,7 @@ package example;
  */
 public class B {
 	public void b1(){
-		
+		System.out.println("changing method b1");
 	}
 	
 	public void b2(){
@@ -23,7 +23,7 @@ public class B {
 	}
 	
 	public void b4(){
-		
+		System.out.println("changing method b4");
 	}
 	
 	public void b5(){
