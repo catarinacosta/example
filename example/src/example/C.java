@@ -17,4 +17,8 @@ public class C {
 	public void c2(){
 		
 	}
+	
+	public void c3(){
+		
+	}
 }
