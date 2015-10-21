@@ -37,4 +37,8 @@ public class B {
 	public void b7(){
 		
 	}
+	
+	public void b8(){
+		
+	}
 }
