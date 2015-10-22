@@ -23,6 +23,6 @@ public class C {
 	}
 	
 	public void c4(){
-		
+		System.out.println("changing method c4");
 	}
 }

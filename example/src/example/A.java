@@ -13,4 +13,8 @@ public class A {
 	public void a1(){
 		System.out.println("changing method a1");
 	}
+	
+	public void a2(){
+		System.out.println("changing method a2");
+	}
 }
