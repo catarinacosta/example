@@ -11,7 +11,7 @@ package example;
  */
 public class C {
 	public void c1(){
-		
+            System.out.println("new change met 1");
 	}
 	
 	public void c2(){
@@ -19,6 +19,7 @@ public class C {
 	}
 	
 	public void c3(){
+            System.out.println("show details");
 		
 	}
 	
