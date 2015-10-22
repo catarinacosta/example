@@ -15,6 +15,8 @@ public class B {
 	}
 	
 	public void b2(){
+                System.out.println("changing method b2");
+
 		
 	}
 	
