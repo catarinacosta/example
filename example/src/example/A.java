@@ -10,5 +10,7 @@ package example;
  * @author Catarina
  */
 public class A {
-	
+	public void a1(){
+		System.out.println("changing method a1");
+	}
 }
