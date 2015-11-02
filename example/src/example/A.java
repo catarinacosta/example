@@ -20,4 +20,7 @@ public class A {
 	public void a3() {
         System.out.println("test1");
     }
+	public void a4() {
+        System.out.println("test3");
+    }
 }

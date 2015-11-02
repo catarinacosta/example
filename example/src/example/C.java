@@ -15,7 +15,7 @@ public class C {
 	}
 	
 	public void c2(){
-		
+		System.out.println("new change met 2");
 	}
 	
 	public void c3(){
