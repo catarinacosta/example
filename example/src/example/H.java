@@ -11,7 +11,7 @@ package example;
  */
 public class H {
 	public void h1() {
-        System.out.println("");
+        System.out.println("TEST");
 		
     } public void h2() {
         System.out.println("");
