@@ -15,7 +15,7 @@ public class A {
         System.out.println("changing method a1");
     }
 	public void a2() {
-        System.out.println("Test0");
+        System.out.println("Test2");
     }
 	public void a3() {
         System.out.println("test1");
