@@ -18,6 +18,6 @@ public class A {
         System.out.println("Test0");
     }
 	public void a3() {
-        System.out.println("");
+        System.out.println("test1");
     }
 }

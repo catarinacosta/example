@@ -14,6 +14,6 @@ public class E {
         System.out.println("");
     }
 	 public void e2() {
-        System.out.println("");
+        System.out.println("test2");
     }
 }
