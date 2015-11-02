@@ -9,11 +9,11 @@ package example;
  *
  * @author Catarina
  */
-public class D {
-	public void d1() {
+public class E {
+	 public void e1() {
         System.out.println("");
     }
-	public void d2() {
+	 public void e2() {
         System.out.println("");
     }
 }
